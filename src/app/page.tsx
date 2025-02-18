@@ -14,7 +14,7 @@ export default function Home() {
         />
       </div>
 
-      <TextPressure text="DINH TRAN" />
+      <TextPressure text="TOP TRAN" />
 
       <SplashCursor />
     </div>
