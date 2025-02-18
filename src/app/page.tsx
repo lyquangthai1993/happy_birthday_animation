@@ -10,7 +10,7 @@ export default function Home() {
           text="Cửu Ca"
           disabled={false}
           speed={3}
-          className="text-2xl"
+          className="text-9xl"
         />
       </div>
 
